@@ -1,0 +1,33 @@
+.uk-navbar-container {
+  background: transparent !important;
+  padding-left: 2em;
+  font-weight: 700;
+}
+
+.uk-container {
+  padding: 1em 5em;
+}
+
+.card-dataset {
+  background-color: #729ebd !important;
+  border: 1px dotted rgba(0,0,0,.2);
+  border-radius: 10px;
+  height: 85vh;
+  max-height: 85vh;
+  overflow-y: scroll;
+
+  .uk-card-title {
+    color: #fff;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 15px;
+  }
+
+}
+
+.preparation-box {
+  margin: 0;
+}
+
+.vertical-center {
+  margin: auto;
+}

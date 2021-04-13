@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-tensor-ml-vision": {
+      "hosting": {
+        "ui-ml-angular": [
+          "angular-tensor-ml-vision"
+        ]
+      }
+    }
+  }
+}
